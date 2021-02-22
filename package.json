@@ -1,0 +1,19 @@
+{
+  "name": "js_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LOL4EL/js_starter.git"
+  },
+  "author": "Dmytro Vaskivskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LOL4EL/js_starter/issues"
+  },
+  "homepage": "https://github.com/LOL4EL/js_starter#readme"
+}

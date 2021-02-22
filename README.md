@@ -8,6 +8,6 @@
 
 `npm i`
 
-## fot start project run command
+## Fot start project run command
 
 `npm start`
